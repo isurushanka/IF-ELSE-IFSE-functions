@@ -1,0 +1,32 @@
+Find the value of i that produces a True
+
+i=1
+i!=0
+True
+Click here for the solution
+i = 1 
+
+#any value other than 0 will produce output as True
+Branching
+Find the value of x that prints the statement: "this is a"
+
+x='a'
+if(x=='a'):
+    print("this is a")
+else:
+    print("this is  not a")
+this is a
+Click here for the solution
+x = 'a'
+Logic Operators
+Did you know? IBM Watson Studio lets you build and deploy an AI solution, using the best of open source and IBM software and giving your team a single environment to work in. Learn more here.
+find the value of y that produces a True statement
+
+y=1
+x=1
+x>0 and y<10
+True
+Click here for the solution
+y = 0
+
+#any value less than 10 will produce output as True
